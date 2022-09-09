@@ -12,11 +12,23 @@
   height: 100%;
   object-fit: cover;
 }
+
 .h1 {
   font-family: "Times New Roman", Times, serif;
 }
+
 .p {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-.p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#logo {
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Qwitcher Grypen', cursive;;
+}
